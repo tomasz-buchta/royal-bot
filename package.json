@@ -11,7 +11,7 @@
     "hubot-diagnostics": "0.0.1",
     "hubot-google-translate": "~0.2.0",
     "hubot-pugme": "~0.1.0",
-    "hubot-google-images": "~0.2.1",
+    "hubot-google-images": "https://github.com/m4r3x/hubot-google-images/tarball/bcceb34ee3da761f6d977a9db0ca03c5b7931835",
     "hubot-rules": "~0.1.1",
     "hubot-heroku-keepalive": "~1.0.0",
     "hubot-redis-brain": "0.0.3",
